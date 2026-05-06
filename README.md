@@ -41,17 +41,13 @@ ai-interview-prep/
 ## ⚙️ Setup & Run
 
 ```bash
-# 1. Clone the repo
-git clone https://github.com/YOUR-USERNAME/ai-interview-prep.git
-cd ai-interview-prep
-
-# 2. Install dependencies
+# 1. Install dependencies
 pip install -r requirements.txt
 
-# 3. Set your Anthropic API key
+# 2. Set your Anthropic API key
 export ANTHROPIC_API_KEY="your-api-key-here"
 
-# 4. Run the app
+# 3. Run the app
 python app.py
 ```
 
